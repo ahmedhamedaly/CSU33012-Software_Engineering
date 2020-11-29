@@ -17,3 +17,9 @@ https://github.com/ahmedhamedaly/CSU33012-Software_Engineering_LCA_DAG
 ## Measuring Software Engineering Report
 >To deliver a report that considers the ways in which the software engineering process can be measured and assessed in terms of measurable data, an overview of the computational platforms available to perform this work, the algorithmic approaches available, and the ethics concerns surrounding this kind of analytics. A starting reading list is provided below. 10 pages.
 https://github.com/ahmedhamedaly/CSU33012_Measuring_Software_Engineering
+
+## Accessing Respository REST API
+> Integrate the GitHub API to retrieve and display data regarding the logged in developer: [Commit](https://github.com/ahmedhamedaly/CSU33012-GitHub-Visualiser/tree/d41c63a14028f3cd32e32e5bf00f8bfa0cd0505a) or [Release v1](https://github.com/ahmedhamedaly/CSU33012-GitHub-Visualiser/releases/tag/v1.0)
+
+## Software Engineering Metric Visualisation Project
+> Integrate the GitHub API to build a visualisation of data available that elucidates some aspect of the software engineering process, such as a social graph of developers and projects, or a visualisation of individual of team performance: [Commit](https://github.com/ahmedhamedaly/CSU33012-GitHub-Visualiser/) or [Release v2](https://github.com/ahmedhamedaly/CSU33012-GitHub-Visualiser/releases/tag/v2.0)
